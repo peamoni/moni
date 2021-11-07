@@ -55,6 +55,8 @@ Work in progress, but just look at how data are created in the models (Instrumen
 ]
 ```
 
+Live data are retrieved using EoD Historical Data API, do not forget to get a licence and set your API Token in `eodapi.ts` on the firebase backend.
+
 #### Have fun
 
 Reach me on Twitter if you have any question, I'll my best to help you :)
