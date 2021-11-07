@@ -6,7 +6,7 @@
 
 Well, it's possible, but nothing comes free, you will have to work (a little).
 
-#### 💡 Prerequities
+#### 💡 prerequisites
 
 You must know Firebase backend (Auth / Firestore / Functions / FCM) and React Native to host your own version of Moni. Unknow stack ? Open google, stackoverflow and your favorite IDE, and start playing with these cool technologies.
 
